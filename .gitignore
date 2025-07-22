@@ -363,8 +363,9 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Files I don't want showing up on the repo
-.csproj
-.http
-.sln
-.json
+DevSimAPI.csproj
+DevSimAPI.http
+DevSimAPI.sln
+appsettings.json
+appsettings.Development.json
 Properties/*
